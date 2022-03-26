@@ -1,0 +1,15 @@
+.hade-show {
+  font-size: 30px;
+  text-align: center;
+  border: 1px solid #6666668c;
+  background: #fafafa3d;
+  color: #20b7db;
+}
+.body-show {
+  padding: 10px 15px;
+  border: 1px solid #6666668c;
+  background: #fafafa3d;
+}
+.red {
+  border: 1px solid red;
+}
